@@ -40,5 +40,24 @@ Strategy, Digital Architecture (APIs & Micorservices), Digital Experience, siner
 - Machine Learning as a Service in a world class data platform
 - Data Driven Company Assesment
 
+### d. What was your involvement in these projects?
+Undestand challenges in each client, propose better approaches and define the right team for each challenge in order to delivered on time and quality
+
+- ### i. What was your collaboration with other stakeholders like?
+Identify the data strategy, and measure the rigth KPI for each initiative based on data
+
+- ### ii. What was your collaboration with your team like?
+Great, reduce attrition in my management period, team got new certificates and growth in data technologies, cloud technologies and analytics 
+
+### e. How did you measure the results delivered by your team?
+Depends of the project, we consider different KPI for different approaches like, customer, Marketing, Finance, Retail, social media, etc
+
+### f. What were the outcomes for the company of your team’s work?
+
+- More than 100 kpis in real time in 6 months in one company
+- Save cost from 10K to 50K usd per month
+- New projects for data and analytics in the trhee mayor cloud tehcnologies
+
+
 
 
