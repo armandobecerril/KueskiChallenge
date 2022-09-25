@@ -12,4 +12,11 @@ Another one more project was for a global digital payment technology company, th
 
 All projects leaved us grown in a sustetability way from 30 to 70 head count, we generated recurrent project, incrementals, evolutives in data and analytics that comes with an important income revenue, with healthy contract  margin for the busineess unit.
 
+### a. What needs of the company did these projects address?
+As a consultancy firm we attend many companies in their digital transformation with data and analytics projects
 
+### b. How were these needs detected?
+We made and assesment for all our client in order to understand data from the strategy to the use cases, their type of data, governance, data platform and data architecture
+
+### c. How did the team work to solve these needs?
+Depends of the challenge, we have an a succesful database of cases with complete documentation and experience in different technologies for different cloud vendors in data and analytics. Team must learn and undestand challenge and technology, then the could design better aproach for different use case
