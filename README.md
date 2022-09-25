@@ -20,3 +20,13 @@ We made and assesment for all our client in order to understand data from the st
 
 ### c. How did the team work to solve these needs?
 Depends of the challenge, we have an a succesful database of cases with complete documentation and experience in different technologies for different cloud vendors in data and analytics. Team must learn and undestand challenge and technology, then the could design better aproach for different use case
+
+- ### i. What was the structure of the team?
+
+- ### ii. What roles were involved with which responsibilities?
+
+- ### iii. What was your role in the team?
+
+- ### iv. What was the collaboration with other teams like?
+
+- ### v. What was the work done, and the deliverables?
