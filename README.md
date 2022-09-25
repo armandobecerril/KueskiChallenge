@@ -2,7 +2,7 @@
 
 ## Part 1: tell us about your experience.
 
-### 1. Guide us about a couple projects in recent years on the ones you think your team added considerable value to the company:
+## 1. Guide us about a couple projects in recent years on the ones you think your team added considerable value to the company:
 
 ### Summary
 
@@ -59,5 +59,16 @@ Depends of the project, we consider different KPI for different approaches like,
 - New projects for data and analytics in the trhee mayor cloud tehcnologies
 
 
+## 2. Guide us through situations where your team had to work with reporting and analytical needs:
+
+### a. What was your strategy to deal with both things? How did you prioritize between external requests, reporting needs and analytical work?
+
+### b. How did you communicate your strategy and come to an agreement with other stakeholders?
+
+### c. How did you structure the team both internally and for its collaboration with other teams?
+
+### d. How was collaboration with other teams like?
+
+### e. What were the outcomes and the value added by your team’s deliverables?
 
 
