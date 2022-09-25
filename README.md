@@ -4,6 +4,8 @@
 
 ### 1. Guide us about a couple projects in recent years on the ones you think your team added considerable value to the company:
 
+### Summary
+
 As an executive for Data and Analytics in a consultancy firm, I participated in different relevant projects, I belive that the most remarkable ptrojects are one of them for telecomunications sector, and it is remarkable because the goal was deliverd and data engineering solution in order to monitoring network in real time, was very challenge because solution must perform more than 2 millon of events per second, all data architecture setup was deploy in AWS, I remember some of the components that team use for ingest NiFi, for events engine and measure metrics a low latency framework like Flink, for delivering data streams Kafka, for persits data in memory Apache Druid and for visualization in real time Apache superset. With these stack tech we deliverded more than 100 kpis in real time in 6 months.
 
 Another main project is for industry 4.0, was an amazing experience because the first challenge was start a migration strategy to the cloud technology, in this ocasion the team use Microsoft Azure (DataLake, Databricks, Containers, AKS), and all stack technology should has the capability of ingest more than 20 terabytes daily becasue different sensors across the plant generates a lot of data, this was the first challenge the second challenge was delivered a machine learning as a service platform for predective maintenace on different line of service, after ingestion procees the data scientists create de analytical models, then our machine learning engineers industrialize those models as a service and predict time to failure near real time given differents events. We got amazing results becasuse prevent a failure reduce downtime in a production line, depends of the production line but we save cost from 10K to 50K usd per month.
@@ -22,11 +24,21 @@ We made and assesment for all our client in order to understand data from the st
 Depends of the challenge, we have an a succesful database of cases with complete documentation and experience in different technologies for different cloud vendors in data and analytics. Team must learn and undestand challenge and technology, then the could design better aproach for different use case
 
 - ### i. What was the structure of the team?
+Head of Data & Analytics(Director), two Managers, 5 Experts Data Engineers, 15 Leaders and aprox. 50 staff consultants
 
 - ### ii. What roles were involved with which responsibilities?
+We have at differnet levels Data Engineers, Data Architects, Data Scientists, Data Analytsts, Machine Learning Engineers
 
 - ### iii. What was your role in the team?
+Head of Data & Analytics(Director)
 
 - ### iv. What was the collaboration with other teams like?
+Strategy, Digital Architecture (APIs & Micorservices), Digital Experience, sinergy with them in order to delivered solutions end to end with user experience and scalability
 
 - ### v. What was the work done, and the deliverables?
+- KPIs in real time
+- Machine Learning as a Service in a world class data platform
+- Data Driven Company Assesment
+
+
+
