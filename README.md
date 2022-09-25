@@ -60,15 +60,41 @@ Depends of the project, we consider different KPI for different approaches like,
 
 
 ## 2. Guide us through situations where your team had to work with reporting and analytical needs:
-
 ### a. What was your strategy to deal with both things? How did you prioritize between external requests, reporting needs and analytical work?
+We define and align with the client, company, stakeholders and involved team's for the priorization, scope, outcomes and deliverables at the inception phase in each project
 
 ### b. How did you communicate your strategy and come to an agreement with other stakeholders?
+When inception phase is approved, communicate progress, risks, desviations and actions in order to keep calm stakeholders with all tranparency, if some other feature, priorization or scope needs to adjust we re-align and manage a control change record for new agreement
 
 ### c. How did you structure the team both internally and for its collaboration with other teams?
+Depends of the project, and maturity level of each professional, experience, background etc
 
 ### d. How was collaboration with other teams like?
+With the proper professional way, assertive, opotune with respect and transparency
 
 ### e. What were the outcomes and the value added by your team’s deliverables?
+New data platforms to accelerate time to market,  save costs in cloud platforms, advanced real time analytics with governance and security
+
+## 3. Guide us through a situation where your team had to implement a data architecture from scratch.
+
+### a. What were the needs that were covered?
+- Strategy (Why)
+- Use Cases (What)
+- Governance (Who, When, How)
+- Data (Internal, external, structured, non structured, batch, real time) (With)
+- Data Platforms (How)
+- Data Architecture (Where)
+
+### b. What was the architecture implemented?
+Lambda and Kappa for different clients
+
+### c. Why did your team decide to implement that architecture?
+Align with the complete data driven company framework that firm use
+
+### d. What do you think could have been done to improve the work done?
+Hire team with the experience and capabilities previosly
+
+### e. How do you align the implemented solution to the company’s vision?
+Data Driven Company framework comes with maturity model in order to scale, replicate and accelerate company to the next level in data & analytics capabilities
 
 
