@@ -123,3 +123,46 @@ Several impacts of delivery time,  image of the company that comes with financia
 
 ### c. Was there a positive outcome of that experience?
 New hired process, more extensive and with different professionals in some cases with exams if is necessary
+
+## Part 2: business case
+
+### Problem description:
+
+Suppose you are leading a team that is in charge of delivering data solutions end to end. It
+means that your team is in charge of ingesting the data until delivering metrics results to the
+company.
+
+Now, imagine that you are working on a stock market analysis company that provides basic
+information for investors. The request is to deliver report metrics based on the historical
+stock prices. It is a common practice to perform stock analysis based on moving averages
+from different time windows E.g 30 days, 15 days and 7 days (you don’t have to perform
+those).
+
+The historical data is received daily and we have to deliver daily metrics in order to make
+decisions. The sample of historical data can be found here (you need to register/log in in
+order to download the data file).
+https://www.kaggle.com/ehallmar/daily-historical-stock-prices-1970-2018#historical_stock_pr
+ices.csv.
+
+You have to build an end to end solution to deliver the stock prices metrics.
+
+1. How does the architecture would look like?
+2. How can you ensure the quality of the data?
+3. Would you apply data modeling techniques?
+a. How would you model the data?
+b. Why would you use that model?
+4. How would you deliver metrics results?
+5. How would you present the data so it is understandable by everyone?
+6. How can you ensure that the metrics delivered are consistent?
+7. What if we have to add a new time window of 45 days?
+
+Imagine the project was successful and investors are buying and selling stocks every
+second. There is a necessity for visualizing all the transactions done by investors in real
+time. You can assume the data is coming in streaming and is your team's job to process the
+data and deliver aggregates E.g purchases & sales by investor and by stock.
+
+1. Mention the data stack you would use to achieve this necessity.
+2. How would you apply data analysis in real time?
+3. How would you ensure the process is stable?
+4. What do you think would be the responsibility of the analysis team?
+5. Mention the main challenges you may face when implementing streaming solutions.
