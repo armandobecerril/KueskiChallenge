@@ -116,9 +116,10 @@ Well, it is a real problem try to keep all professionals happy, most part of the
 ## 5. Could you share with us an experience where things didn’t go well?
 
 ### a. What didn’t go well?
-
+My antecesor hired a supposed expert in visualization with the skills of REACT and python, we needed to deliver several indicators in a real time dashboards, that the tool doesnt have in a native manner for build those KPI, the idea was hire and expert in order to  improved the capabilities of visualization tool. Unfortunaly the supposed expert failed in all taks that must performed, he didn't have exprience and enough knowledge of the technology
 
 ### b. What was the impact?
-
+Several impacts of delivery time,  image of the company that comes with financial impacts too.
 
 ### c. Was there a positive outcome of that experience?
+New hired process, more extensive and with different professionals in some cases with exams if is necessary
