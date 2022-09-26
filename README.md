@@ -159,7 +159,7 @@ You have to build an end to end solution to deliver the stock prices metrics.
 
 2. How can you ensure the quality of the data?
 
-Best practice is at the beginiing of data generation, however it is not possible, there are differnt controls, after ingestion to raw data it is recomend apply a data quality framework with different rules and patterns, it is necessary undesrtand data, information and goal. Given exploratory ananlysis we could indentify that somo data could consider as an outlier, other are incomple or null values, in some cases we dont have complete history, but all scenarios could be real, some companies did not list on stock markets in hole history, to ensure quality of data it is necessary a team for data govenance an data owner in order to apply necessary controls
+Best practice is at the beginiing of data generation, however it is not possible, there are differnt controls, after ingestion to raw data it is recomend apply a data quality framework with different rules and patterns, it is necessary undesrtand data, information and goal. Given exploratory ananlysis we could indentify that some data could consider as an outlier, other are incomple or null values, in some cases we dont have complete history, but all scenarios could be real, some companies did not list on stock markets in hole history, to ensure quality of data it is necessary a team for data govenance an data owner in order to apply necessary controls
 
 3. Would you apply data modeling techniques?
   - a. How would you model the data?
@@ -187,19 +187,24 @@ second. There is a necessity for visualizing all the transactions done by invest
 time. You can assume the data is coming in streaming and is your team's job to process the
 data and deliver aggregates E.g purchases & sales by investor and by stock.
 
-1. Mention the data stack you would use to achieve this necessity.
+1. Mention the data stack you would use to achieve this necessity
+
 Kafka, Flink, Druid, Redis, Superset
 
 2. How would you apply data analysis in real time?
+
 Flink is a framework for managed data streams in real time, is used because its low latency and scalability, then we could send data steams to druid that allow analysis of information in real time
 
 3. How would you ensure the process is stable?
+
 Solution proposed need to be tested, monitoring and tunning constantly, with the capabilities of kubernetes we garantee availability and scalability for stability
 
 4. What do you think would be the responsibility of the analysis team?
+
 Identify insigths, measure,  statistics, data exploration, define new business visualizations in order to present more relevants kpi
 
-5. Mention the main challenges you may face when implementing streaming solutions.
+5. Mention the main challenges you may face when implementing streaming solutions
+
 In tech approach configuration and tunning, selection of tech stack, in other way streaming solutions comes with new ways of work for analysis and analytics. Another one is that ther is not a lot of visualization tools like in traditional batch Business Intelligence
 
 # Business case Demo solved with data architecture proposed:
