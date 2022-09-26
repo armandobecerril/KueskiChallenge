@@ -147,14 +147,23 @@ ices.csv.
 You have to build an end to end solution to deliver the stock prices metrics.
 
 1. How does the architecture would look like?
-2. How can you ensure the quality of the data?
-3. Would you apply data modeling techniques?
+
+<img width="953" alt="image" src="https://user-images.githubusercontent.com/61662465/192175885-11ad4353-198c-4fb0-921e-eb1d3f8f0aa5.png">
+
+Architecture proposed given the use case, for ingest, stored data and delivered for analysis
+Use open source stack technology, use case did not mention any cloud solution, this approach is multi cloud.
+Architecture proposed is ready even for real time data analysis and visualization
+Architectured proposed in also based in containers, could expand and scale in kubernetes
+
+
+3. How can you ensure the quality of the data?
+4. Would you apply data modeling techniques?
   - a. How would you model the data?
   - b. Why would you use that model?
-4. How would you deliver metrics results?
-5. How would you present the data so it is understandable by everyone?
-6. How can you ensure that the metrics delivered are consistent?
-7. What if we have to add a new time window of 45 days?
+5. How would you deliver metrics results?
+6. How would you present the data so it is understandable by everyone?
+7. How can you ensure that the metrics delivered are consistent?
+8. What if we have to add a new time window of 45 days?
 
 Imagine the project was successful and investors are buying and selling stocks every
 second. There is a necessity for visualizing all the transactions done by investors in real
