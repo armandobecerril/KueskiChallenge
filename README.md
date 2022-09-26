@@ -97,4 +97,28 @@ Hire team with the experience and capabilities previosly
 ### e. How do you align the implemented solution to the company’s vision?
 Data Driven Company framework comes with maturity model in order to scale, replicate and accelerate company to the next level in data & analytics capabilities
 
+## 4. Tell us about the organizational structures you have implemented for your teams in the past:
 
+Mainly in different approaches and necessities, form traditional Business Intelligence, relational data bases, and ad-hoc reports to the new disruptive technologies that makes the difference in digital technology like big data and fast data, machine learning, deep learning and artificial intelligence, data governace and advanced visualizations, needs are different and a multidiciplinary team with good softskills but with excellence in hard skills are required for a succesful projects 
+
+### a. Did your team work in a centralized manner? That is, receiving requests from other teams via a single channel and prioritizing internally.
+Not, we dont. We belive that we must think and make the work different, with innovation labs, traninig paths and certification paths, evolving talent, data assets all global experience are shared with different teams, given that, all oficial requirements pass througth the executive company commitee before evaluate and perform
+
+### b. Did your team work in a hybrid manner? That is, engineers working as part of business or product teams, but at the same time being part of a core data team in charge of their career path, development of technical skills and soft skills, etc.
+Yes, it is necessary in order to improve professional maturity, however it is import consider and evaluate that each person is faster in maturity than others. We decided who is ready for more duties and responsabilities given their maturity
+
+### c. What was your role in defining this structure?
+Provide experience and definition of traning paths and certifications paths, hired the rigth team in different levels taking advantage of my networking 
+
+### d. What were the advantages and disadvantages of the implemented team’s structure?
+Well, it is a real problem try to keep all professionals happy, most part of them want to become a data scientist, but they dont have robust maths and statistics in a professional way. This disadvantages is more notoried in youger consultants
+
+## 5. Could you share with us an experience where things didn’t go well?
+
+### a. What didn’t go well?
+
+
+### b. What was the impact?
+
+
+### c. Was there a positive outcome of that experience?
