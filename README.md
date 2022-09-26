@@ -202,7 +202,7 @@ Identify insigths, measure,  statistics, data exploration, define new business v
 5. Mention the main challenges you may face when implementing streaming solutions.
 In tech approach configuration and tunning, selection of tech stack, in other way streaming solutions comes with new ways of work for analysis and analytics. Another one is that ther is not a lot of visualization tools like in traditional batch Business Intelligence
 
-Business case Demo solved with data architecture proposed:
+# Business case Demo solved with data architecture proposed:
 
 http://superset.centralus.azurecontainer.io:8088/login/
 
