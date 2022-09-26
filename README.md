@@ -173,6 +173,8 @@ Pre build metric, for better user experience and scalability
 
 5. How would you present the data so it is understandable by everyone?
 Very friendly dashboards and KPI's, with all user experience as possible, faster response, and information that provide insigths for more and better decisions
+![image](https://user-images.githubusercontent.com/61662465/192180840-9c5cd0e9-3c7e-4d38-bd38-f504a4768b11.png)
+
 
 6. How can you ensure that the metrics delivered are consistent?
 Need to be tested in an exhaustive way, and with some tools like RPA or IPA validate across the time functionality ans consistent of the data across the time, this information and behavior of the data it is important for analytics team
@@ -204,6 +206,24 @@ Business case Demo solved with data architecture proposed:
 
 http://superset.centralus.azurecontainer.io:8088/login/
 
-user: kueski
-password: kueski
+### user: kueski
+
+### password: kueski
+
+
+## Click on Kueski Challenge Dashboard
+
+![image](https://user-images.githubusercontent.com/61662465/192180465-f1aca5a8-4e7d-4930-b07b-42bd7a89bd51.png)
+
+
+## Kueski Challenge Dashboard
+
+![image](https://user-images.githubusercontent.com/61662465/192180593-0255d370-4ff9-4ee8-b493-8827cf07dc67.png)
+
+## Double Click on a Stock (AMZN)
+
+![image](https://user-images.githubusercontent.com/61662465/192180733-b4385143-c5fa-482c-ba83-b06a3d5de45c.png)
+
+
+
 
