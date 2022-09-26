@@ -157,17 +157,28 @@ You have to build an end to end solution to deliver the stock prices metrics.
 - Architectured proposed in also based in containers, could expand and scale in kubernetes
 
 
-3. How can you ensure the quality of the data?
+2. How can you ensure the quality of the data?
 
 Best practice is at the beginiing of data generation, however it is not possible, there are differnt controls, after ingestion to raw data it is recomend apply a data quality framework with different rules and patterns, it is necessary undesrtand data, information and goal. Given exploratory ananlysis we could indentify that somo data could consider as an outlier, other are incomple or null values, in some cases we dont have complete history, but all scenarios could be real, some companies did not list on stock markets in hole history, to ensure quality of data it is necessary a team for data govenance an data owner in order to apply necessary controls
 
-5. Would you apply data modeling techniques?
+3. Would you apply data modeling techniques?
   - a. How would you model the data?
+    - In a most faster way in order to deliver value,  did not model the data (star schema, snowflake model or E-R, data vault, etc) we ingest in a    proper stack tech for better and faster results
+       
   - b. Why would you use that model?
-6. How would you deliver metrics results?
-7. How would you present the data so it is understandable by everyone?
-8. How can you ensure that the metrics delivered are consistent?
-9. What if we have to add a new time window of 45 days?
+    - Current use case doesn`t need a complex data modeling, only stored huge volume of data for their analysis 
+    
+4. How would you deliver metrics results?
+Pre build metric, for better user experience and scalability
+
+5. How would you present the data so it is understandable by everyone?
+Very friendly dashboards and KPI's, with all user experience as possible, faster response, and information that provide insigths for more and better decisions
+
+6. How can you ensure that the metrics delivered are consistent?
+Need to be tested in an exhaustive way, and with some tools like RPA or IPA validate across the time functionality ans consistent of the data across the time, this information and behavior of the data it is important for analytics team
+
+7. What if we have to add a new time window of 45 days?
+Visualizations tools could solve this time window request
 
 Imagine the project was successful and investors are buying and selling stocks every
 second. There is a necessity for visualizing all the transactions done by investors in real
@@ -175,7 +186,24 @@ time. You can assume the data is coming in streaming and is your team's job to p
 data and deliver aggregates E.g purchases & sales by investor and by stock.
 
 1. Mention the data stack you would use to achieve this necessity.
+Kafka, Flink, Druid, Redis, Superset
+
 2. How would you apply data analysis in real time?
+Flink is a framework for managed data streams in real time, is used because its low latency and scalability, then we could send data steams to druid that allow analysis of information in real time
+
 3. How would you ensure the process is stable?
+Solution proposed need to be tested, monitoring and tunning constantly, with the capabilities of kubernetes we garantee availability and scalability for stability
+
 4. What do you think would be the responsibility of the analysis team?
+Identify insigths, measure,  statistics, data exploration, define new business visualizations in order to present more relevants kpi
+
 5. Mention the main challenges you may face when implementing streaming solutions.
+In tech approach configuration and tunning, selection of tech stack, in other way streaming solutions comes with new ways of work for analysis and analytics. Another one is that ther is not a lot of visualization tools like in traditional batch Business Intelligence
+
+Business case Demo solved with data architecture proposed:
+
+http://superset.centralus.azurecontainer.io:8088/login/
+
+user: kueski
+password: kueski
+
