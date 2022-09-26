@@ -150,10 +150,11 @@ You have to build an end to end solution to deliver the stock prices metrics.
 
 <img width="953" alt="image" src="https://user-images.githubusercontent.com/61662465/192175885-11ad4353-198c-4fb0-921e-eb1d3f8f0aa5.png">
 
-Architecture proposed given the use case, for ingest, stored data and delivered for analysis
-Use open source stack technology, use case did not mention any cloud solution, this approach is multi cloud.
-Architecture proposed is ready even for real time data analysis and visualization
-Architectured proposed in also based in containers, could expand and scale in kubernetes
+
+- Architecture proposed given the use case, for ingest, stored data and delivered for analysis
+- Use open source stack technology, use case did not mention any cloud solution, this approach is multi cloud.
+- Architecture proposed is ready even for real time data analysis and visualization
+- Architectured proposed in also based in containers, could expand and scale in kubernetes
 
 
 3. How can you ensure the quality of the data?
