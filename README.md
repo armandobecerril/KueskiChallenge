@@ -158,13 +158,16 @@ You have to build an end to end solution to deliver the stock prices metrics.
 
 
 3. How can you ensure the quality of the data?
-4. Would you apply data modeling techniques?
+
+Best practice is at the beginiing of data generation, however it is not possible, there are differnt controls, after ingestion to raw data it is recomend apply a data quality framework with different rules and patterns, it is necessary undesrtand data, information and goal. Given exploratory ananlysis we could indentify that somo data could consider as an outlier, other are incomple or null values, in some cases we dont have complete history, but all scenarios could be real, some companies did not list on stock markets in hole history, to ensure quality of data it is necessary a team for data govenance an data owner in order to apply necessary controls
+
+5. Would you apply data modeling techniques?
   - a. How would you model the data?
   - b. Why would you use that model?
-5. How would you deliver metrics results?
-6. How would you present the data so it is understandable by everyone?
-7. How can you ensure that the metrics delivered are consistent?
-8. What if we have to add a new time window of 45 days?
+6. How would you deliver metrics results?
+7. How would you present the data so it is understandable by everyone?
+8. How can you ensure that the metrics delivered are consistent?
+9. What if we have to add a new time window of 45 days?
 
 Imagine the project was successful and investors are buying and selling stocks every
 second. There is a necessity for visualizing all the transactions done by investors in real
