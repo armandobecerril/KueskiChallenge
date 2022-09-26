@@ -149,8 +149,8 @@ You have to build an end to end solution to deliver the stock prices metrics.
 1. How does the architecture would look like?
 2. How can you ensure the quality of the data?
 3. Would you apply data modeling techniques?
-a. How would you model the data?
-b. Why would you use that model?
+- a. How would you model the data?
+- b. Why would you use that model?
 4. How would you deliver metrics results?
 5. How would you present the data so it is understandable by everyone?
 6. How can you ensure that the metrics delivered are consistent?
