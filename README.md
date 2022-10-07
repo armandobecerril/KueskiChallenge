@@ -209,7 +209,7 @@ In tech approach configuration and tunning, selection of tech stack, in other wa
 
 # Business case Demo solved with data architecture proposed:
 
-http://superset.centralus.azurecontainer.io:8088/login/
+http://superset.centralus.azurecontainer.io:8088/superset/dashboard/p/o4vX9Mz27VL/
 
 ### user: kueski
 
